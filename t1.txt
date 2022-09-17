@@ -1,1 +1,1 @@
-devops- sonar
+devops- sonarqube
